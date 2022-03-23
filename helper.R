@@ -1,6 +1,6 @@
 
 # load("/srv/shiny-server/growHT/Data/data_growht.RData")
- load("/media/sandra/D Drive/Workspace/Shiny/gr_test/growHT/Data/data_growht.RData")
+ 
 
 suppressMessages({library("sitar")
   library("tidyverse")
